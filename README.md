@@ -49,8 +49,7 @@ The dataset was collected from the internet and processed using FastAI tools.
 ---
 
 ## 📁 Project Structure
-cats-vs-dogs/
-├── [notebook.ipynb](https://github.com/safimoh1993-star/cats-vs-dogs-classifier/blob/main/cats-vs-dogs-classifier.ipynb)
+cats-vs-dogs/[notebook.ipynb](https://github.com/safimoh1993-star/cats-vs-dogs-classifier/blob/main/cats-vs-dogs-classifier.ipynb)
 
 ---
 
