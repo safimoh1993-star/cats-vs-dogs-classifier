@@ -57,4 +57,4 @@ cats-vs-dogs/
 
 ## 📊 Results
 - Model accuracy: **≈99.98%**  
-- Example output:
+- Example output: cats_VS_dogs.png
