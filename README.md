@@ -50,11 +50,10 @@ The dataset was collected from the internet and processed using FastAI tools.
 
 ## 📁 Project Structure
 cats-vs-dogs/
-├── notebook.ipynb
-└── README.md
+├── [notebook.ipynb](https://github.com/safimoh1993-star/cats-vs-dogs-classifier/blob/main/cats-vs-dogs-classifier.ipynb)
 
 ---
 
 ## 📊 Results
 - Model accuracy: **≈99.98%**  
-- Example output: cats_VS_dogs.png
+- Example output: [cats_VS_dogs.png](https://github.com/safimoh1993-star/cats-vs-dogs-classifier/blob/main/cats_VS_dogs.png)
